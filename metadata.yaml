@@ -1,0 +1,31 @@
+_repo: The-Nantucket-Indians_70447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas-Lithgow, R. A. (Robert Alexander)
+    alias: Douglas-Lithgow, Robert Alexander
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '55729'
+    url: http://www.gutenberg.org/2009/agents/55729
+description: ''
+gutenberg_issued: '2023-04-02'
+identifiers:
+  gutenberg: '70447'
+language: en
+pgterms:marc905: 20230122171600douglaslit
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Robert Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bInquirer and Mirror Press, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Massachusetts'
+- !lcsh 'Nantucket Island (Mass.) -- History'
+- !lcc 'E011'
+- GITenberg
+title: The Nantucket Indians
+url: http://www.gutenberg.org/ebooks/70447
