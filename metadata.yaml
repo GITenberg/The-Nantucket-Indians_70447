@@ -1,5 +1,8 @@
 _repo: The-Nantucket-Indians_70447
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70447-h/images/cover.jpg
 creator:
   author:
     agent_name: Douglas-Lithgow, R. A. (Robert Alexander)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55729'
     url: http://www.gutenberg.org/2009/agents/55729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70447#The-Nantucket-Indians
 gutenberg_issued: '2023-04-02'
 identifiers:
   gutenberg: '70447'
